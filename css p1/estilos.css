@@ -5,6 +5,13 @@ body
     font-family: "Arial";
     font-size: 16px;
 }
+#cabecera{
+    background-color: yellow;
+    color: red;
+    margin: auto;
+    padding: 1em;
+    font-weight: bold;
+}
 #container{
     width: 50%;
     padding: 1em;
@@ -14,4 +21,12 @@ body
 }
 #cointainer h1{
     font-size: 30px;
+}
+#post{
+    width: 10%;
+    color: blue;
+    font-size: large;
+    font-size: 15px;
+    
+
 }
